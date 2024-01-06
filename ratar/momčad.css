@@ -1,0 +1,40 @@
+li {
+    margin: 8px;
+    height: 100px;
+    display: flex;
+    align-items: center; /*vertikalno centriranje*/
+    justify-content: left; /*horizontalno centriranje*/
+    font-size: 20px;
+    font-weight: 600;
+    color: #393e46;
+    text-align: justify;
+}
+
+ul{
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+body{
+    background-image: linear-gradient(to right, #f7f7f7, #f8b500,#5c636e,#393e46);
+}
+
+article{
+    padding-top: 100px;
+    text-align: center;
+    margin-left: 24px;
+}
+
+h3 {
+    font-size: 36px;
+    color: #393e46;
+    text-align: left;
+}
+
+img{
+    margin-right: 32px;
+}
+
+
+
+
