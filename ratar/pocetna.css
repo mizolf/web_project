@@ -90,26 +90,33 @@ h3 {
 
 .post-1 img{
     border-radius: 20px;
-    max-width: 95%;
+    width: 97%;
     margin-bottom: 10px;
+    object-fit: contain;
 }
 
 .post-2 img{
     border-radius: 20px;
     max-width: 85%;
     margin-bottom: 10px;
+    object-fit: contain;
+
 }
 
 .post-3 img{
     border-radius: 20px;
     max-width: 100%;
     margin-bottom: 10px;
+    object-fit: contain;
+
 }
 
 .post-4 img{
     border-radius: 20px;
     max-width: 90%;
     margin-bottom: 10px;
+    object-fit: contain;
+
 }
 
 h2{
