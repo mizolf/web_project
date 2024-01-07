@@ -86,15 +86,29 @@ h3 {
 }
 
 
-.post-1 img, .post-3 img, .post-4 img {
+
+
+.post-1 img{
     border-radius: 20px;
-    max-width: 100%;
+    max-width: 95%;
     margin-bottom: 10px;
 }
 
 .post-2 img{
     border-radius: 20px;
     max-width: 85%;
+    margin-bottom: 10px;
+}
+
+.post-3 img{
+    border-radius: 20px;
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+.post-4 img{
+    border-radius: 20px;
+    max-width: 90%;
     margin-bottom: 10px;
 }
 
